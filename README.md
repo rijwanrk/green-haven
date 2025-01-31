@@ -23,6 +23,6 @@ The main feature of this website are:
 
 ✔ Responsive footer section using flexbox.
 
-Resource: https://www.youtube.com/watch?v=OQbgfxff06s
+
 
 Key: #Ecommerce-Website, #Plant-shop, #FrontEnd
